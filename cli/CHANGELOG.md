@@ -1,5 +1,28 @@
 # Changelog
 
+## [0.46.0](https://github.com/tambo-ai/tambo/compare/tambo-v0.45.0...tambo-v0.46.0) (2025-12-22)
+
+
+### Features
+
+* **mcp:** Refactor text editor to speed up prompt/resource searching ([#1597](https://github.com/tambo-ai/tambo/issues/1597)) ([8f002c3](https://github.com/tambo-ai/tambo/commit/8f002c3991330e4ad6496ce9291ec99dc49c5464))
+
+
+### Bug Fixes
+
+* add max image uploads and show image error ([#1512](https://github.com/tambo-ai/tambo/issues/1512)) ([5af9a32](https://github.com/tambo-ai/tambo/commit/5af9a329b8518ffb8ba706ccf0ac1823ee1cb2d8))
+* refactor ContextAttachmentProvider and allow Interactable selection ([#1588](https://github.com/tambo-ai/tambo/issues/1588)) ([40a6af4](https://github.com/tambo-ai/tambo/commit/40a6af45323e73f1cc400df0665f45793d98de5b))
+
+
+### Miscellaneous Chores
+
+* **repo:** add settings for vscode-jest extension ([#1591](https://github.com/tambo-ai/tambo/issues/1591)) ([a714303](https://github.com/tambo-ai/tambo/commit/a7143037ccf05ada73a5a7a6fc9a0227ba653a48))
+
+
+### Tests
+
+* **components:** Add tests and clean up test infra for testing components ([#1596](https://github.com/tambo-ai/tambo/issues/1596)) ([25ff97c](https://github.com/tambo-ai/tambo/commit/25ff97c4bfeceb1400e51202b29556b437ecbdfe))
+
 ## [0.45.0](https://github.com/tambo-ai/tambo/compare/tambo-v0.44.1...tambo-v0.45.0) (2025-12-18)
 
 
