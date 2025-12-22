@@ -1,5 +1,14 @@
 # Changelog
 
+## [0.2.1](https://github.com/tambo-ai/tambo/compare/create-tambo-app-v0.2.0...create-tambo-app-v0.2.1) (2025-12-22)
+
+
+### Miscellaneous Chores
+
+* add LICENSE files across workspaces ([#1532](https://github.com/tambo-ai/tambo/issues/1532)) ([6e41be5](https://github.com/tambo-ai/tambo/commit/6e41be55b85be629f9b23d5688d058ccd2bd57f8))
+* **deps-dev:** bump the eslint group with 2 updates ([#1609](https://github.com/tambo-ai/tambo/issues/1609)) ([38959be](https://github.com/tambo-ai/tambo/commit/38959be0ec2e53946a36c120073d644c010466ed))
+* **deps-dev:** bump the eslint group with 5 updates ([#1541](https://github.com/tambo-ai/tambo/issues/1541)) ([6329a46](https://github.com/tambo-ai/tambo/commit/6329a461e8b9f036e111e24890c27a98925f4d15))
+
 ## [0.2.0](https://github.com/tambo-ai/tambo/compare/create-tambo-app-v0.1.18...create-tambo-app-v0.2.0) (2025-11-20)
 
 
